@@ -1,0 +1,2 @@
+--with-ldflags=-L/usr/local/opt/openssl/lib
+dquote>
